@@ -19,7 +19,7 @@ I enjoy solving complex data challenges and leveraging innovative tools to creat
 - ⚡ Fun fact: **I don't like people who don't write the *QUERY* in *UPPERCASE*.**
 - :nerd_face: Always learning new things.
 - 📫 How to reach me: **Drop me an email at himanshu.htalele@gmail.com**
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/himanshutalele/) 🏆.
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/htalele/) 🏆.
   
 ---
 
