@@ -47,9 +47,9 @@ I enjoy solving complex data challenges and leveraging innovative tools to creat
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
+| PFS SRE Engineer / System Engineer | [Lucid Motors](https://www.linkedin.com/company/lucidmotors/about/) | Jul 2025 - Present |
 | Data  Engineer (Analytics) | [Mimecast](https://www.linkedin.com/company/mimecast/posts/?feedView=all) | Jan 2024 - Jul 2024 |
-| Data Engineer (Software) | [Rockwell Automation](https://www.linkedin.com/company/rockwell-automation/posts/?feedView=all) | Jan 2021 - Jul 2022 |
-| Data Engineer | [Ameya Industries](https://www.linkedin.com/company/ameya-indsutries/posts/?feedView=all) | Aug 2010 - Dec 2020 |
+| Software Engineer | [Rockwell Automation](https://www.linkedin.com/company/rockwell-automation/posts/?feedView=all) | Jan 2021 - Jul 2022 
 
 ---
 
